@@ -1,0 +1,15 @@
+[
+    {
+        "username": "143umer",
+        "email": "umer@gmail.com",
+        "password": "5aa2c006cc655b83d7678639b849e7e80287e5bd58c296e6683b635d2e4c363d",
+        "role": "user"
+    },
+    {
+        "username": "zoya",
+        "email": "zoya@gmaail.com",
+        "password": "4cc8f4d609b717356701c57a03e737e5ac8fe885da8c7163d3de47e01849c635",
+        "role": "user",
+        "attempts": 0
+    }
+]
